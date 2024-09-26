@@ -1,0 +1,2 @@
+<h1 class="text-center text-5xl font-semibold">Svelte Kit Pokedex</h1>
+<h2 class="text-center text-lg mt-4">Demo app to consume a <a href="https://pokeapi.co" target="_blank" class="text-primary hover:underline">PokeAPI</a></h2>
